@@ -1,4 +1,10 @@
-# Fabricator
+---
+layout: default
+title: Fabricator
+nav_order: 1
+---
+
+## Overview
 
 The fabricator is very cool.
 
