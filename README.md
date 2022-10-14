@@ -1,4 +1,4 @@
-# Neutron Fabricator
+# Quantii Fabricator
 
 A nice fabricator using EUV technology to make chips. And synthesise all the raw materials into useful stuff like glass LEDs, aluminium chassis', plastic casing.
 
